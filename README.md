@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **moawadsimon@gmail.com**
 
-- ⚡ Fun fact **My first language Ruby**
+- ⚡ Fun fact **My first language is Ruby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
