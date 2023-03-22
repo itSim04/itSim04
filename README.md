@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsim04" alt="itsim04" /></a> </p>
 
-- 🔭 I’m currently working on **Platonia**
+- 🔭 I’m currently working on **Purple Motel**
 
 - 🌱 I’m currently learning **React Native**
 
