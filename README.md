@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsim04" alt="itsim04" /></a> </p>
 
-- 🔭 I’m currently working on **Purple Motel**
+- 🔭 I’m currently working on **JavaScript Workflow Superset**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently mastering **NextJS 13**
 
-- 💬 Ask me about **Java, TypeScript or anything OOP**
+- 💬 Ask me about **TypeScript, Java, design patterns and all paradigms**
 
 - 📫 How to reach me **moawadsimon@gmail.com**
 
